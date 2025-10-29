@@ -1,0 +1,15 @@
+To run frontend:
+in terminal:
+cd heel-seek-link
+npm install
+npm run dev
+➜  Local:   http://localhost:8080/(ctrl+click) to open the project
+  ➜  Network: http://100.240.1.81:8080/
+  ➜  press h + enter to show help
+
+to run backend:
+in terminal:
+cd heel-seek-link
+cd backend
+npm init -y
+npm run dev 
